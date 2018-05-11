@@ -19,8 +19,10 @@ Micro_House
 with the implementation of lists, you can solve this problem, where each node has a number, and an index and insert in its respective list to find the number with more luck, converting the numbers to bits, by the use of the XOR gate.
 
 Army Parade:
-
-
+The program is to look for all the possibilities of sending the military to the specified work,
+The process that is performed is given a matrix of n * M will start with a sub matrix of 2 x 2 to find how many officers
+There is in that division, that will be the amount of possibilities to send soldiers for that sub-matrix, ie:
+The 1 are officers, the 0 are soldiers.
 
 Zulu and Games 
 With the use of lists, where there are two nodes, one with lower value and another with higher value, find the highest number between two nodes that do not intersect with each other, making values comparing between lists and adding a final counter to make a combo Magic, can solve this problem.
